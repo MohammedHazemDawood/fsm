@@ -5,30 +5,199 @@ content:
     path: data.json
     format: json
     list: true
+
     fields:
+
+      # ─────────────────────────────
+      # Common fields
+      # ─────────────────────────────
+
       - name: type
-        type: block
-        list: true
-        blockKey: type
-        blocks:
-          - name: book
-            fields:
-              - name: titleAr
-                type: string
-              - name: titleEn
-                type: string
-              - name: icon
-                type: string
-              - name: chapters
-                type: object
-                list: true
-                fields:
-                  # ...
+        label: Type
+        type: select
+        required: true
+        options:
+          values:
+            - book
+            - normal
+            - nested
 
-          - name: normal
-            fields:
-              # ...
+      - name: titleAr
+        label: Arabic Title
+        type: string
 
-          - name: nested
+      - name: titleEn
+        label: English Title
+        type: string
+
+      - name: icon
+        label: Icon
+        type: string
+
+      # ─────────────────────────────
+      # Book → chapters
+      # ─────────────────────────────
+
+      - name: chapters
+        label: Chapters
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{titleAr}"
+        fields:
+
+          - name: titleAr
+            label: Arabic Title
+            type: string
+
+          - name: titleEn
+            label: English Title
+            type: string
+
+          - name: contentAr
+            label: Arabic Content
+            type: text
+
+          - name: contentEn
+            label: English Content
+            type: text
+
+          - name: icon
+            label: Icon
+            type: string
+
+      # ─────────────────────────────
+      # Audio
+      #
+      # IMPORTANT:
+      # We intentionally keep resName.
+      # It refers to your Android res/raw file.
+      # No CMS audio upload.
+      # ─────────────────────────────
+
+      - name: audio
+        label: Audio
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{nameAr}"
+        fields:
+
+          - name: nameAr
+            label: Arabic Name
+            type: string
+
+          - name: nameEn
+            label: English Name
+            type: string
+
+          - name: artistAr
+            label: Arabic Artist
+            type: string
+
+          - name: artistEn
+            label: English Artist
+            type: string
+
+          - name: resName
+            label: Android Resource Name
+            type: string
+            description: "Name of the file in Android res/raw without the extension."
+
+      # ─────────────────────────────
+      # Video
+      # ─────────────────────────────
+
+      - name: video
+        label: Video
+        type: string
+
+      # ─────────────────────────────
+      # Normal content
+      # ─────────────────────────────
+
+      - name: contentAr
+        label: Arabic Content
+        type: text
+
+      - name: contentEn
+        label: English Content
+        type: text
+
+      # ─────────────────────────────
+      # Nested → list
+      # ─────────────────────────────
+
+      - name: list
+        label: Nested Items
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{titleAr}"
+        fields:
+
+          - name: type
+            label: Type
+            type: select
+            options:
+              values:
+                - book
+                - normal
+                - nested
+
+          - name: titleAr
+            label: Arabic Title
+            type: string
+
+          - name: titleEn
+            label: English Title
+            type: string
+
+          - name: icon
+            label: Icon
+            type: string
+
+          - name: audio
+            label: Audio
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{nameAr}"
             fields:
-              # ...
+
+              - name: nameAr
+                label: Arabic Name
+                type: string
+
+              - name: nameEn
+                label: English Name
+                type: string
+
+              - name: artistAr
+                label: Arabic Artist
+                type: string
+
+              - name: artistEn
+                label: English Artist
+                type: string
+
+              - name: resName
+                label: Android Resource Name
+                type: string
+                description: "Name of the file in Android res/raw without the extension."
+
+          - name: video
+            label: Video
+            type: string
+
+          - name: contentAr
+            label: Arabic Content
+            type: text
+
+          - name: contentEn
+            label: English Content
+            type: text
