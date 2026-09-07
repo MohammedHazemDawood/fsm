@@ -1,0 +1,804 @@
+[
+  {
+    "type": "book",
+    "titleAr": "معلومات ثقافية عن المقامات",
+    "titleEn": "Cultural Information about the Maqamat",
+    "icon": "article",
+    "chapters": [
+      {
+        "titleEn": "Definition of Maqam Science",
+        "titleAr": "تعريف علم المقامات",
+        "contentAr": "المقام هو نغمة موسيقية تخرج من الفم أوتخرج من آلة موسيقية تعبر عن (حالة)، يتكون المقام من 7 درجات متمما بالدرجة ال 8 وهى جواب السلم الخاص بالمقام، وتسمى ال 7 درجات ب (أوكتاف).<br><b>والمقام يتكون من جنسين:</b><br><b>جنس الاصل:</b> وغالبا ما يكون المقام باسمه.<br><b> وجنس الفرع:</b> وغالبا يكون من مقام أخر.<br>",
+        "contentEn": "The maqam is a musical tone that comes out of the mouth or from a musical instrument expressing a (state), the maqam consists of 7 degrees completing with the 8th degree which is the answer to the maqam diatonic, and the 7 degrees are called (octave).\n:<b>The maqam consists of two Tetrachord :</b>\n<b> Primary Tetrachord:</b> It is often named after the maqam.\n<b> And Secondary Tetrachord:</b> It often comes from another maqam.\n"
+      },
+      {
+        "titleEn": "Primary and Secondary Tetrachord",
+        "titleAr": "المقامات الأصلية والفرعية",
+        "contentAr": "<b>المقامات الأساسية الأصلية</b><br>وهى: الراست والنهاوند والبياتى والحجاز والصبا والكرد والعجم والسيكا.<br><b>المقامات الفرعية:</b><br>وهى من عائلات المقامات الأصلية فعلى سبيل المثال وليس الحصر:<br><b>عائلة العجم:</b><br>شوق أفزا - عشيران - جهاركاه<br><b>عائلة السيكا:<b><br>راحة الارواح - مستعار - هزام - بستنكار - أوج عراق - عراق<br><b>عائلة الحجاز:</b><br>سوزدل - زنجران - حجاز كار - شدعريبان - شهناز<br><b>عائلة الراست:</b><br> سوزناك - سوز دلارا - ساز كار - نيروز - ماهور - كرديان<br><b>عائلة الكرد:</b><br>حجاز كار كرد <br><b>عائلة البياتى:</b><br>حسينى - شورى<br><b>عائلة النهاوند:</b><br>فرح فزا - عشاق مصرى - مرصع<br>",
+        "contentEn": "<b>The main original maqamat:</b>\nThey are: Rast, Nahawand, Bayati, Hijaz, Saba, Kurd, Ajam, and Sika.\n<b>Branch maqamat:</b>\nThey come from the families of the original maqamat, for example but not limited to:\n<b>Ajam family:</b>\nShawq Afza - Ushayran - Jaharkah\n<b>Sika family:</b>\nRahat al-Arwah - Mustaar - Huzam - Bastanakar - Uj Iraq - Iraq\n<b>Hijaz family:</b>\nSazdal - Zangiran - Hijaz Kar - Shad Araban - Shahnaz\n<b>Rast family:</b>\nSuznak - Suz Dalara - Saz Kar - Nairuz - Mahur - Kurdiyan\n<b>Kurd family:</b>\nHijaz Kar Kurd \n<b>Bayati family:</b>\nHusseini - Shuri\n<b>Nahawand family:</b>\nFarah Faza - Ushaq Masri - Marsa\n",
+        "icon": null
+      },
+      {
+        "titleEn": "Diatonic",
+        "titleAr": "السلم الموسيقي",
+        "contentAr": "<b>يتكون السلم الموسيقى من 7 درجات وهى:</b><br>(دو، رى، مى، فا، صول، لا، سى)<br><b>لكل درجة مسمى:</b><br><b>الدو:</b> راست<br><b>الرى:</b> دوكاه<br><b>المى:</b> سيكاه<br><b>الفا:</b> جهاركاه<br><b>الصول:</b> نوى<br><b>اللا:</b> حسينى<br><b>السى جواب:</b> أوج<br><b>السى قرار:</b> عشيران<br>دو جواب: كردانأول ألة موسيقية وترية على وجه الأرض هى (الحنجرة) التى هى من صنع الله تعالى والتى تصدر أصواتا متنوعة ومختلفة من شخص لأخر، تلك هى الآلة الموسيقية التى وهبها الله للإنسان، منها يتكلم ومنها ينشد ويغرد ويطرب الأذان، ومنها جاءت الألحان والأنغام، ومنها جاءت الموسيقى، ومنها جاءت المقامات فسبحان الله الذي أتقن كل شىء.<br>",
+        "contentEn": "<b>The diatonic consists of 7 degrees which are:</b>\n(Do, Re, Mi, Fa, Sol, La, Si)\n<b>Each degree has a name:</b>\nDo: Rast\nRe: Dokah\nMi: Sikah\nFa: Jaharkah\nSol: Nawa\nLa: Husseini\nSi Jawab: Uj\nSi Qarar: Ushairan\nDo Jawab: Kurdana\nThe first string instrument on earth is (the larynx) which is made by Allah and produces different and varied sounds from person to person. This is the musical instrument that Allah gave to humans, from which they speak, chant, sing, and delight the ears, from which melodies and tunes came, and from which the maqamat came, so glory be to Allah who perfected everything.\n",
+        "icon": null
+      },
+      {
+        "titleEn": "Sound Dictionary",
+        "titleAr": "معجم الأصوات",
+        "contentAr": "<b>الأصوات الخفية:</b><br>الدندنة: يتكلم شخص كلام نسمعه ولا نفهمه لأنه يخفيه<br>النغم: جرس الكلام وحسن الصوت<br>النبأة: صوت ليس بشديد<br>الهسهسه: صوت الهمس<br><b>الأصوات الشديدة:</b><br>الصياح: تعلية الصوت بقوة النداء<br>الصريخ: تعلية الصوت بالانذار<br>الصخب: تعلية الصوت بالازعاج والضجيج<br>العج صوت جماعى فى التلبية<br>النقع: صراخ مرتفع<br>الزجل: رفع الصوت عند الطرب<br>التهليل: رفع الصوت بكلمة التوحيد<br>الاستهلال: صياح المولود عند الولادة<br><b>الأصوات الجميلة</b><br>الصوت الشجى: أحلاهم وأصفاهم وأكثرهم نغما<br>الصوت الناعم: صوت مليح وصافي النغم<br>الرطب الندى: يجرى فى السماع كجريان الماء سهلا بلا تكلف<br>الجهورى: غليظ حاد فيه قوة<br>الأبح: به بحة مصحوبة بعرب<br>الكروانى: يشبه صوت الكروان الذي يغرد",
+        "contentEn": "<b>Hidden sounds:</b>\nDandana(Humming): A person speaks words we hear but do not understand because he hides them\nNagham(Tune): The tone of speech and the beauty of the voice\nNaba’a: A sound that is not loud\nHisshessa(Hissing): The sound of whispering\n<b>Loud sounds:</b>\nSiyaah(Shouting): Raising the voice loudly in a call\nSareekh: Raising the voice in alarm\nSakhab: Raising the voice in annoyance and noise\nAaj: A collective sound in response\nNoq’a: A loud scream\nZajal: Raising the voice in joy\nTahlil: Raising the voice with the word of monotheism\nIstehlal: The cry of a newborn at birth\n<b>Beautiful sounds:</b>\nThe melancholy voice: The sweetest, clearest, and most melodious\nThe soft voice: A pleasant and clear voice\nThe wet dewy: Flows in hearing like water easily without effort\nThe deep voice: Thick, sharp, and powerful\nThe hoarse voice: With hoarseness accompanied by embellishments\nThe Krowani: Resembles the sound of a warbler that sings\n",
+        "icon": null
+      },
+      {
+        "titleEn": "Types of Voices",
+        "titleAr": "أنواع الأصوات",
+        "contentAr": "<b>الصوت الرجالي:</b><br>باس: صوت ضخم عريض (وأغلبه لكبار السن)<br>الباريتون: صوت قوى (وسط بين الغليظ والرفيع) أقل من \"الباس\" قليلا وأغلبه للرجال من بعد سن 40 الى 50<br>التينور: هو أعلى الأصوات عند الرجال (رفيع)<br><b>الصوت النسائى:</b><br>ألتو: الصوت الاعلى ترددا ويكون ضخما عند النساء<br>ميزو سوبرانو: صوت وسطى ويصل لطبقات أعلى<br>سوبرانو: هو الاعلى ترددا من (الميزو) وهو صوت رفيع حاد يشبه الصفير<br> <br> <br><b>الأداء بالصوت:</b> <br>بيانو: أداء خافت <br>بيانيسمو: خافت جدا <br>فورتى: أداء قوى <br>فورتيسمو: قوى جدأ <br>كريشيندو: من الخفوت إلى القوة <br>ديمنوندو: من القوة إلى الخفوت",
+        "contentEn": "<b>Male voice:</b>\nBass: A thick, broad voice (mostly for the elderly)\nBaritone: A strong voice (medium between thick and thin) slightly less than \"bass\" mostly for men from age 40 to 50\nTenor: The highest voice among men (thin)\n<b>Female voice:</b>\nAlto: The highest pitched voice and is thick in women\nMezzo-Soprano: A medium voice that reaches higher pitches\nSoprano: The highest pitched voice from (mezzo) and is a thin, sharp voice resembling a whistle\n \n \nVocal performance\nPiano: Quiet performance\nPianissimo: Very quiet\nForte: Strong performance\nFortissimo: Very strong\nCrescendo: From quiet to strong\nDiminuendo: From strong to quiet",
+        "icon": null
+      },
+      {
+        "titleEn": "What Benefits and Harms the Larynx",
+        "titleAr": "ما يفيد الحنجرة وما يضرها",
+        "contentAr": "هناك أشياء فى غاية الاهمية للحنجرة وأشياء أخرى فى غاية الخطورة. <br><b>الأشياء المفيدة للحنجرة:</b><br>النوم أولهم؛ فالنوم خميرة الصوت - المشروبات الدافئة بلا إسراف وليست الساخنة اليانسون والنعناع (بعد الغناء وليس قبله لأنه يسبب ارتخاء الأحبال الصوتية) - التليو - القرفة بالزنجبيل (صباحا) - شاي مضاف عليه حلاوة طحينية (قبل الغناء) - زيت سمسم (ضد الحشرجة) - عصير عرق سوس مغلى - عصير قصب غير مثلج - لبان دكر - حلاوة طحينية - اللبن - عسل أبيض - عصير جوافة - زيت الزيتون - لبابة الفينو بالعسل أوبالسمن البلدى وبلعها صباحا.<br><b>الأشياء المضرة للحنجرة:</b><br>قلة النوم - كثرة الاستمناء - المثلجات - الغازات - بعض أنواع الزهور والروائح - المشروبات وهى ساخنة جدا - المكسرات (لب وسودانى وبندق وفزدق ولوز والحمص) - النبق - الاكلات الحارة (سبايسى) - المسبك - المقلى - الزنجبيل قبل النوم واليانسون قبل الغناء - المخللات - التوابل - التوتر والقلق يضعف الأداء - الغناء من طبقات عالية - ترك تمارين الحنجرة - الصريخ والكلام الكثير.",
+        "contentEn": "There are things of great importance to the larynx and other things of great danger.\n<b>Things beneficial to the larynx:</b>\nSleep is the first; sleep is the yeast of the voice - warm drinks without excess and not hot anise and mint (after singing not before because it causes relaxation of the vocal cords) - linden - cinnamon with ginger (in the morning) - tea with halva (before singing) - sesame oil (against hoarseness) - boiled licorice juice - non-iced cane juice - mastic - halva - milk - white honey - guava juice - olive oil - the soft part of fine bread with honey or ghee in the morning.\n<b>Things harmful to the larynx:</b>\nLack of sleep - excessive masturbation - ice - gases - some types of flowers and smells - drinks that are very hot - nuts (seeds, peanuts, hazelnuts, almonds, chickpeas) - nabk - spicy foods - fried - ginger before sleep and anise before singing - pickles - spices - stress and anxiety weaken performance - singing in high pitches - stopping larynx exercises - screaming and talking a lot.\n",
+        "icon": null
+      },
+      {
+        "titleEn": "Types of Singing",
+        "titleAr": "أنواع الغناء",
+        "contentAr": "<b>غناء الاطفال:</b><br>مثل: ذهب الليل - يلا بينا يلا - أهلا بالعيد - ماما زمانها جاية - أن أن أنا - توت توت - انا عندى بغبغان - البنات البنات - إبريق الشاي - عمو عبده. <br><b>غناء شعبي:</b><br>أنواع من الغناء الشعبي: <br><b>شعبي فلاحي:</b><br>مثل أغاني فاطمة عيد، وفاطمة سرحان، وخضره محمد خضر <br><b>شعبي أفراح:</b><br>مثل أغاني رمضان البرنس ورضا البحراوي <br><b>شعبي غنائي وفيه طرب:</b><br>مثل أغاني عدوية وحكيم وهشام عباس<br><b>شعبي إنشاد وقصص وتصوف:</b><br>مثل الشيخ ياسين التهامي والشيخ احمد التوني <br>وقصص الشيخ احمد مجاهد والشيخ طلعت هواش والشيخ محمد الحملي والشيخ محمد عبد الهادي والشيخ سالم غنيم والشيخ سعد اليتيم والشيخ محمد الشوبكي والريس متقال والريس حجازي والمنياوي وأحمد بعزق والعربي فرحان البلبيسي.<br><b>شعبي نوبي:</b><br>وهو أغاني منطقة النوبة بجنوب مصر مثل محمد أبو الشيخ وكرم مراد وحمزة علاء الدين وعلى كوبان وخضر العطار وعبد الرازق فيكا، وغنى بعضها المطرب محمد منير. <br><b>غناء ديني</b>:<br>مثل أغانى ياسمين الخيام وسعاد محمد والشيخ محمد الكحلاوي والشيخ محمد الفيومي.<br><b>غناء وطني:</b><br>مثل يا بلادي (شادية) - وطني الأكبر (مجموعة من المطربين) - يا أغلى اسم في الوجود - مصر أمنا - ان كان عالقلب (هانى شاكر ومحمد ثروت) <br><b>غناء رومانسي شبابي:</b><br>مثل أغاني شيرين وكاظم الساهر وحماقي وفضل شاكر وهانى شاكر <br><b>غناء طرب:</b><br>عبد الحليم وصباح وشادية وليلى مراد وأم كلثوم وفريد الاطرش ومحمد عبد الوهاب وبعض مطربين هذا العصر<br><b>غناء التواشيح والابتهالات والموشحات:</b> مثل ملا الكاسات - ميلاد طه - حبيب الله - لو كنت تدري - أيها الساقي اليك - سلب النوم - يا من لعبت به شمول - احن شوقا - لما بدا يتثنى - لو كنت تدري - ايها المختار- شهر الصيام - تجلى مولد الهادي.",
+        "contentEn": "<b>Children's songs:</b>\nSuch as: \"Thahab Al-Layl\" - \"Yalla Bina\" - \"Ahlan Bel-Eid\" - \"Mama Zmanha Gayya\" - \"Toot Toot\"z - \"Ana A'ndy Baghbaghan\"  - \"Al-Banat Al-Banat\".\n<b>Folk singing:</b>\nTypes of folk singing:\n<b>Popular rural:</b>\nSuch as the songs of \"Fatima Eid\", \"Fatima Sarhan\", and \"Khadra Mohamed Khadr\"\n<b>Folk for weddings:</b>\nSuch as the songs of \"Ramadan El Brince\" and \"Reda El Bahrawi\"\n<b>Folk singing with (Tarab):</b>\nSuch as the songs of \"Adaweya\", \"Hakim\", and \"Hisham Abbas\"\n<b>Folk chanting and stories and Sufism:</b>\nSuch as \"Sheikh Yassin Al-Tohami\" and Sheikh \"Ahmed Al-Tuni\"\n And the stories of \"Sheikh Ahmed Mujahid\", \"Sheikh Talat Hawash\", \"Sheikh Mohamed Al-Hamly\", \"Sheikh Mohamed Abdel Hady\", \"Sheikh Salem Ghoneim\", \"Sheikh Saad Al-Yatim\", \"Sheikh Mohamed Al-Shobky\", \"Raees Metkal\", \"Raees Hijazi\", \"El Minyawy\", \"Ahmed Bazak\", and \"Al Araby Farhan\" and \"Al-Balbisi\".\n<b>Nubian Folk:</b>\nIt is the songs of the Nubian region in southern Egypt such as \"Mohamed Abu El Sheikh\", \"Karam Murad\", \"Hamza Ala Eldin\", \"Ali Koban\", \"Khidr Al Attar\", and \"Abdel Razek Fika\", and some were sung by singer \"Mohamed Mounir\".\n<b>Religious singing:</b>\nSuch as the songs of \"Yasmin Al-Khayyam\", \"Souad Mohamed\", \"Sheikh Mohamed Al-Kahlawi\", and \"Sheikh Mohamed Al-Fayoumi\".\n<b>National singing:</b>\nSuch as \"Bilady\" (Shadia) - \"Watany Al-Aazam\" (by Group of singers) - \"Ya Aghla Ism Fil-Wgood\"- \"Misr Ommona\" - \"Law Kan ala Al-Qalb\" (Hani Shaker and Mohamed Tharwat)\n<b>Romantic youth singing:</b>\nSuch as the songs of \"Sherine\", \"Kazem Al Saher\", \"Hamaki\", \"Fadl Shaker\", and \"Hani Shaker\"\n<b>Singing with melodies(Tarab):</b>\n\"Abdel Halim\", \"Sabah\", \"Shadia\", \"Layla Mourad\", \"Umm Kulthum\", \"Farid Al Atrash\", \"Mohamed Abdel Wahab\", and some singers of this era\n<b>Singing of Mawal and Invocations and Muwashshah:</b>\nSuch as \"Mala Al-Kasat\" - \"Milad Taha\" - \"Habib Allah\" - \"Law Kont Tadry\" - \"Ayyoha Al-Saki\" - \"Salab Al-Nawm\" - \"Shahr Al-Siyam\" - \"Tajalla Mawlid Al-Hady\".\n",
+        "icon": null
+      }
+    ]
+  },
+  {
+    "type": "normal",
+    "titleAr": "تمارين لتطوير الحنجرة",
+    "titleEn": "Exercises for Developing the Larynx",
+    "icon": "exercise",
+    "audio": [],
+    "video": "https://www.youtube.com/embed/AHQbKNwADO8"
+  },
+  {
+    "type": "nested",
+    "titleAr": "المقامات الأصلية",
+    "titleEn": "Original Maqamat",
+    "icon": "music_note",
+    "list": [
+      {
+        "type": "normal",
+        "titleEn": "Maqam Rast",
+        "titleAr": "مقام الراست",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "rust_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ أحمد محمد شبيب",
+            "artistEn": "Shekh Ahmed Muhammad Shabib",
+            "resName": "rust_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "rust_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "rust_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "rust_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "rust_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/6FZqXvin2YU",
+        "contentAr": "<b>(دو، ري، مي نصف بيمول، فا، صول، لا، سي نصف بيمول، دو)</b><br>من المقامات الشرقية الأصيلة والتي تمتاز بالوقار والفخامة ويسمى المستقيم، درجة ركوزه الأساسية (الدو)<br><b>جنس الأصل:</b> راست.<br><b>جنس الفرع:</b> راست من درجة النوا.<br><b>نماذج من الراست:</b><br>ولد الهدى - يا مسهراني - أروح لمين - يا مرسال المراسيل - كلموني تاني عنك فكروني - رباعيات الخيام - ألفين صلاة على النبي - المسك فاح - نور البدر - الليلة حلوة - موشح ميلاد طه - ملا الكاسات - خشوع - سنة عن سنة - الحب كله - بشاير من الحبيب ...... الخ.",
+        "contentEn": "<b>(Do, Re, Mi half-flat, Fa, Sol, La, Si half-flat, Do)</b>\nFrom the original eastern maqamat that are characterized by dignity and grandeur and is called the straight, its main resting degree (Do)\n<b>Primary  Tetrachord:</b> Rast.\n<b>Secondary Tetrachord:</b> Rast from the degree of Nawa.\n<b>Examples of Rast:</b>\n\"Wolid Al-Hoda\" - \"Ya Msahrani\" - \"The Rubaiyat of Khayyam\" - \"Al-Misk Fah\" - \"Al-lila Helwa\" - Muwashshah Milad Taha - Mala Al-Kasat - All the Love ....... etc.\n"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام النهاوند",
+        "titleEn": "Maqam Nahawand",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "nah_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ أحمد نعينع",
+            "artistEn": "Shekh Ahmed Nainaa",
+            "resName": "nah_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "nah_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "nah_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "nah_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "nah_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/su29cf5LZ5c",
+        "contentAr": "<b>(دو، ري، مي: بيمول، فا، صول، لا: بيمول، سي: بيمول عند الرجوع، دو)</b><br>من المقامات التي تمتاز بالعاطفة والرقة والعذوبة والخشوع، درجة ركوزه الأساسية (الدو)<br><b>جنس الأصل:</b> نهاوند على درجة الراست.<br><b>جنس الفرع:</b> حجاز على درجة النوا.<br><b>نماذج من النهاوند:</b><br>سبحانك سبحانك - لولا الملامة - بتونس بيك - يامسافر وحدك - ألف ليلة وليلة - أعطنى الناي - زهرة المدائن - لما بدا يتثنى - طالما أشكوا غرامي - خيرالبرية - بفكر في اللى ناسيني - يلا بينا يلا.",
+        "contentEn": "<b>(Do, Re, Mi: flat, Fa, Sol, La: flat, Si: flat on return, Do)</b>\nOne of the maqamat characterized by emotion, gentleness, sweetness, and reverence, its main resting degree (Do)\n<b>Primary  Tetrachord:</b> Nahawand on the degree of Rast.\n<b>Secondary Tetrachord:</b> Hijaz on the degree of Nawa.\n<b>Examples of Nahawand:</b>\n\"Subhanak Subhanak\" .........etc .\n"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام البياتي",
+        "titleEn": "Maqam Bayati",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "bayat_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ سيد متولي",
+            "artistEn": "Sheikh Sayed Metwally",
+            "resName": "bayat_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "bayat_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "bayat_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "bayat_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "bayat_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/gKFT2nEALdQ",
+        "contentAr": "<b>(رى، مي: نصف بيمول، فا، صول، لا، سي: بيمول، دو، ري)</b><br>من المقامات الشرقية المتميزة التي تمتاز بالانسيابية والجمال والخشوع والطرب والشعور بالسعادة الداخلية والحب، درجة ركوزه الأساسية (الرى).<br><b>جنس الأصل:</b> بياتي على درجة الدوكاه (الرى).<br><b>جنس الفرع:</b> نهاوند على درجة النوا (صول). <br><b>نماذج من البياتى:</b><br>القلب يعشق - حب ايه - ست الحبايب - كل ده كان ليه - الحياة حلوة - سألوني الناس - الرسايل - ابعتلي جواب - عيون القلب - زينه زينه - صلاة الزين - النبي صلوا عليه - مولاي (النقشبندى) - يا عيني عالصبر - ليلة خميس - انت طيب - جانا الهوا - دقوا المزاهر - هان الود - هذه ليلتي - دار يا دار - أنت طيب",
+        "contentEn": "<b>(Re, Mi: half-flat, Fa, Sol, La, Si: flat, Do, Re)</b>\nOne of the distinguished eastern maqamat characterized by fluidity, beauty, reverence, and melody, creating a sense of internal happiness and love, its main resting degree (Re).\n<b>Primary  Tetrachord:</b> Bayati on the degree of Dokah (Re).\n<b>Secondary Tetrachord:</b> Nahawand on the degree of Nawa (Sol).\n<b>Examples of Bayati:</b>\n\"Al-Qalb Yaashak\" - \"Zina Zina\"- \"Salat Al-Zain\" - \"Mawlay\" (Nashqbandi) ....etc\n"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الحجاز",
+        "titleEn": "Maqam Hijaz",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "hgz_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ السعيد عبد الصمد",
+            "artistEn": "Sheikh El-Saeed Abdul-Samad",
+            "resName": "hgz_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "hgz_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "hgz_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "hgz_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "hgz_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/JOZzwWo9AlI",
+        "contentAr": "<b>(رى، مى بيمول، فا بيمول، صول، لا، سى بيمول، دو، رى)</b><br>من المقامات ذات طابع الخشوع والتضرع والوقار والجمال النغمي وهو من أعرق المقامات الشرقية، درجة ركوزه (الرى)<br><b>جنس الأصل:</b> حجاز على درجة الدوكاه (الرى)<br><b>جنس الفرع:</b> راست صعودا ونهاوند هبوطا <br><b>نماذج من الحجاز:</b> <br>صلينا الفجر فين - مضناك - برضاك يا خالقي - عليك سلام الله - بحلم بيك - الله العالم - مولاي أجفاني - الحلوة دي - حبيبي يا نورالعين - حبينا حبينا - منحرمش العمر منك - فوق الحرم - يا سارية خبريني - يا أهل الهوى - آخر زيارة - أكرم ببنت رسول الله - طيب يا صبر طيب.",
+        "contentEn": "<b>(Re, Mi flat, Fa flat, Sol, La, Si flat, Do, Re)</b>\nOne of the maqamat with a nature of reverence, supplication, dignity, and melodic beauty, it is one of the oldest eastern maqamat, its main resting degree (Re)\n<b>Primary  Tetrachord:</b> Hijaz on the degree of Dokah (Re)\n<b>Secondary Tetrachord:</b> Rast ascending and Nahawand descending\n<b>Examples of Hijaz:</b>\nWe \"Sallina Al-Fagr Fien\" - \"Ya Sariya Akhbriny\" - \"Tayeb Ya Sabr Tayeb\".\n"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الكرد",
+        "titleEn": "Maqam Kurd",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "krd_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ محمود محمد رمضان",
+            "artistEn": "Sheikh Mahmud Mohammed Ramadan",
+            "resName": "krd_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "krd_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "krd_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "krd_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "krd_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/Zl7YJmjyAqE",
+        "contentAr": "<b>(رى، مى بيمول، فا، صول، لا، سى بيمول، دو، رى)</b><br>من المقامات الرومانسية العاطفية وهو مقام سهل ولين، درجة ركوزه الأساسية (الرى)<br><b>جنس الأصل:</b> كرد على درجة الدوكاه (الرى).<br><b>جنس الفرع:</b> نهاوند على درجة النوا (صول).<br>وقيل كرد على درجة الحسينى <br><b>نماذج من الكرد:</b><br>أمل حياتي - الفجر البعيد - أنت عمري - حيرت قلبي معاك - نسم علينا الهوا - أدى الربيع عاد - سألتك حبيبي - حب ايه - أنا لحبيبي - توبة - النهر الخالد - هجرتك - لا ترد ما ضل أثر - يمر عجبا - دليل.",
+        "contentEn": "<b>(Re, Mi flat, Fa, Sol, La, Si flat, Do, Re)</b>\nOne of the romantic emotional maqamat, it is an easy and soft maqam, its main resting degree (Re)\n<b>Primary  Tetrachord:</b> Kurd on the degree of Dokah (Re).\n<b>Secondary Tetrachord:</b> Nahawand on the degree of Nawa (Sol).\nAnd it is said Kurd on the degree of Husseini\n<b>Examples of Kurd:</b>\n\"Amal Hayaty\" - \"Hayyart Qalbi\".\n"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الصبا",
+        "titleEn": "Maqam Saba",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "sba_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ الشحات محمد أنور",
+            "artistEn": "Sheikh El-Shahhat Anwar",
+            "resName": "sba_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "sba_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "sba_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "sba_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "sba_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/NmqehnZSiT0",
+        "contentAr": "<b>(رى، مى نصف بيمول، فا، صول بيمول، لا، سى بيمول، دو، رىبيمول)</b><br>من المقامات الشرقية والتى تمتاز بالإحساس ونبرة الحزن ومع ذلك ممكن أن يستخدم في أغاني الفرح والسرور، ليس منشقا عن مقام ولا ينشق عنه مقام منه، درجة ركوزه الأساسية (الرى – دوكاه).<br><b>جنس الأصل:</b> صبا - على درجة الدوكاه (الرى).<br><b>جنس الفرع:</b> حجاز على درجة الجهاركاه.<br><b>نماذج من الصبا:</b><br>هو صحيح الهوى غلاب - ابيك - الأماكن - وحشني زمانك - اسمحيلي بالغرام - موشح تجلى مولد الهادي - الله على نور رسول - الأطلال - موشح أهوى قمرا - بيحسدوني - جل المنادي - انا من تراب.",
+        "contentEn": "<b>(Re, Mi half-flat, Fa, Sol flat, La, Si flat, Do, Re flat)</b>\nOne of the eastern maqamat characterized by emotion and a tone of sadness, yet it can be used in songs of joy and happiness, it is not branched from any maqam nor does any maqam branch from it, its main resting degree (Re – Dokah).\n<b>Primary  Tetrachord:</b> Saba - on the degree of Dokah (Re).\n<b>Secondary Tetrachord:</b> Hijaz on the degree of Jaharkah.\n<b>Examples of Saba:</b>\nMuwashshah \"Tajalla Mawlid Al-Hadi\" - Muwashshah \"Ahwa Qamaran\".\n"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام العجم",
+        "titleEn": "Maqam Ajam",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "agm_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ محمود علي البنا",
+            "artistEn": "Sheikh Mahmud El-Banna",
+            "resName": "agm_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "agm_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "agm_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "agm_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "agm_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/r48z9oxYKpg",
+        "contentAr": "<b>(دو: قرار، رى، مى، فا، صول، لا، سى، دو: جواب)</b><br>هو مقام له وقع مختلف فى الاذان؛ لأنه أقرب لألحان العجم ويعبر به عن الخيال والقوة والفرح، درجة ركوزه الأساسية بعضهم يجعلها سى، أما هنا: دو.<br><b>جنس الأصل:</b> عجم على درجة دو<br><b>جنس الفرع:</b> عجم على درجة النوا<br><b>نماذج من العجم:</b><br>أغدا ألقاك - البواب - في يوم وليلة - لسه فاكر - طلعت يا محلا نورها - رمضان جانا - رمضان تجلى - تكبيرات العيد بمصر - أيامكم سعيدة - جفنه علم الغزل - شايف البحر - زوروني كل سنة مرة - يا أخضر يا سكر - آخر العنقود - رحيق الورد.",
+        "contentEn": "<b>(Do: Qarar, Re, Mi, Fa, Sol, La, Si, Do: Jawab)</b>\nIt is a maqam that has a different impact on the ears; because it is closer to foreign melodies and expresses imagination, strength, and joy, its main resting degree some consider it Si, but here: Do.\n<b>Primary  Tetrachord:</b> Ajam on the degree of Do\n<b>Secondary Tetrachord:</b> Ajam on the degree of Nawa\n<b>Examples of Ajam:</b>\n\"Ramadan Tajalla\" - Eid Takbeerat in Egypt.\n"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام السيكا",
+        "titleEn": "Maqam Sika",
+        "icon": null,
+        "audio": [
+          {
+            "nameAr": "سورة الفاتحة",
+            "nameEn": "Sorat Al-Fateha",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Saied",
+            "resName": "seka_moratal"
+          },
+          {
+            "nameAr": "تلاوة مجودة",
+            "nameEn": "Mojawwad Telawa",
+            "artistAr": "الشيخ محمد الليثي",
+            "artistEn": "Sheikh Mohammed El-Lithy",
+            "resName": "seka_mojwwad"
+          },
+          {
+            "nameAr": "السلم والمفتاح",
+            "nameEn": "Diatonic & Mode",
+            "artistAr": "فرج سعيد",
+            "artistEn": "Farag Sied",
+            "resName": "seka_diatonic"
+          },
+          {
+            "nameAr": "تقاسيم ناي",
+            "nameEn": "Nai Taqasem",
+            "artistAr": "الفنان عبد الرحمن غانم",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "seka_taqasem_nai"
+          },
+          {
+            "nameAr": "تقاسيم عود",
+            "nameEn": "Oud Taqasem",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "seka_taqasem_oud"
+          },
+          {
+            "nameAr": "تمرين غنائي",
+            "nameEn": "singing exercise",
+            "artistAr": "الفنان مصطفى النجدي",
+            "artistEn": "Mostafa Al-Nagdy",
+            "resName": "seka_sing"
+          }
+        ],
+        "video": "https://www.youtube.com/embed/pSRRQuJVRRU",
+        "contentAr": "<b>(مى نصف بيمول، فا، صول، لا بيمول، سى، دو، رى، مى نص بيمول)</b><br>هو مقام العشاق ومقام السلطنة والموال والطرب الشرقي الأصيل، درجة ركوزه الأساسية (المى).<br><b>جنس الأصل:</b> سيكا على درجة سيكا.<br><b>جنس الفرع:</b> راست على درجة النوا (صول).<br><b>نماذج من السيكا:</b><br>سيرة الحب - للصبر حدود - ظلموه - أي دمعة حزن - يا نسيمات الصبا - أسابق الساعة - لنا الله - سيد أهلي - هز عيونك - قولوه - مولاي - طلع البدر علينا - ليلة حلوه - تبدت أنوار الهادي - بنت الامام الطاهرة.",
+        "contentEn": "<b>(Mi half-flat, Fa, Sol, La flat, Si, Do, Re, Mi half-flat)</b>\nIt is the maqam of lovers and the maqam of sultanship and oriental melody, its main resting degree (Mi).\n<b>Primary  Tetrachord:</b> Sika on the degree of Sika.\n<b>Secondary Tetrachord:</b> Rast on the degree of Nawa (Sol).\n<b>Examples of Sika:</b>\nThe \"Sirat Al-Hobb\" - \"Talaa Al-Badr Alina\" .\n"
+      }
+    ]
+  },
+  {
+    "type": "normal",
+    "titleAr": "سلالم جميع المقامات",
+    "titleEn": "Diatonics for all Maqamat",
+    "icon": "piano",
+    "audio": [],
+    "video": "https://www.youtube.com/embed/3MemzhGboe0",
+    "contentAr": "<b>(مى نصف بيمول، فا، صول، لا بيمول، سى، دو، رى، مى نص بيمول)</b><br>هو مقام العشاق ومقام السلطنة والموال والطرب الشرقي الأصيل، درجة ركوزه الأساسية (المى).<br><b>جنس الأصل:</b> سيكا على درجة سيكا.<br><b>جنس الفرع:</b> راست على درجة النوا (صول).<br><b>نماذج من السيكا:</b><br>سيرة الحب - للصبر حدود - ظلموه - أي دمعة حزن - يا نسيمات الصبا - أسابق الساعة - لنا الله - سيد أهلي - هز عيونك - قولوه - مولاي - طلع البدر علينا - ليلة حلوه - تبدت أنوار الهادي - بنت الامام الطاهرة.",
+    "contentEn": "<b>(Mi half-flat, Fa, Sol, La flat, Si, Do, Re, Mi half-flat)</b>\nIt is the maqam of lovers and the maqam of sultanship and oriental melody, its main resting degree (Mi).\n<b>Primary  Tetrachord:</b> Sika on the degree of Sika.\n<b>Secondary Tetrachord:</b> Rast on the degree of Nawa (Sol).\n<b>Examples of Sika:</b>\nThe \"Sirat Al-Hobb\" - \"Talaa Al-Badr Alina\" .\n"
+  },
+  {
+    "type": "normal",
+    "titleEn": "Things That Destroy the Larynx",
+    "titleAr": "أشياء تدمر الحنجرة",
+    "icon": "stop",
+    "audio": [],
+    "video": "https://www.youtube.com/embed/SRrgwqA7ceU"
+  },
+  {
+    "type": "nested",
+    "titleAr": "سلالم ومفاتيح المقامات",
+    "titleEn": "Diatonics and Keys of each Maqam",
+    "icon": "music_note",
+    "list": [
+      {
+        "type": "normal",
+        "titleAr": "مقام الراست",
+        "icon": null,
+        "audio": [],
+        "titleEn": "Maqam Rast",
+        "video": "https://www.youtube.com/embed/i9GuY0hVPgU"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام النهاوند",
+        "titleEn": "Maqam Nahawand",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/0kODf2v3lD0"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام البياتي",
+        "titleEn": "Maqam Bayati",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/1SwJrIJnhiM"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الحجاز",
+        "titleEn": "Maqam Hijaz",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/jVfUxQUN-_g"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الكرد",
+        "titleEn": "Maqam Kurd",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/Wk9UQF7wuqU"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الصبا",
+        "titleEn": "Maqam Saba",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/G-BzJLYVvh8"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام العجم",
+        "titleEn": "Maqam Ajam",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/rm7f2HckEjY"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام السيكا",
+        "titleEn": "Maqam Sika",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/7-y8XcgPiOE"
+      }
+    ]
+  },
+  {
+    "type": "nested",
+    "titleAr": "القرآن المرتل",
+    "titleEn": "Morattal Quran",
+    "icon": "moshaf",
+    "list": [
+      {
+        "type": "normal",
+        "titleAr": "مقام الراست",
+        "titleEn": "Maqam Rast",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/cyXyKrRaQAU"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام النهاوند",
+        "titleEn": "Maqam Nahawand",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/EDAOp3wKax0"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام البياتي",
+        "titleEn": "Maqam Bayati",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/4xfujhQIhCA"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الحجاز",
+        "titleEn": "Maqam Hijaz",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/Zp0UYoD5wNs"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الكرد",
+        "titleEn": "Maqam Kurd",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/6fKX1PYclLc"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الصبا",
+        "titleEn": "Maqam Saba",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/FAoRcMUHpPc"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام العجم",
+        "titleEn": "Maqam Ajam",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/WLx4qN_BsdY"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام السيكا",
+        "titleEn": "Maqam Sika",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/8Nvx6Nusiow"
+      }
+    ]
+  },
+  {
+    "type": "nested",
+    "titleAr": "المواويل",
+    "titleEn": "Mawal",
+    "icon": "mawwal",
+    "list": [
+      {
+        "type": "normal",
+        "titleAr": "مقام الراست",
+        "titleEn": "Maqam Rast",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/aNv8XM9rUMg"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام النهاوند",
+        "titleEn": "Maqam Nahawand",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/bwHAqRXkQbc"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام البياتي",
+        "titleEn": "Maqam Bayati",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/FKNoRihoUJ0"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الحجاز",
+        "titleEn": "Maqam Hijaz",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/upZ7eHMghqY"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الكرد",
+        "titleEn": "Maqam Kurd",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/G6Kza2nnE80"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الصبا",
+        "titleEn": "Maqam Saba",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/LkT9pDqOcZM"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام العجم",
+        "titleEn": "Maqam Ajam",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/7xAsvTAyRmc"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام السيكا",
+        "titleEn": "Maqam Sika",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/Xa06Ue0jAsU"
+      }
+    ]
+  },
+  {
+    "type": "nested",
+    "titleAr": "الأذان",
+    "titleEn": "Adhan",
+    "icon": "mosque",
+    "list": [
+      {
+        "type": "normal",
+        "titleAr": "مقام الراست",
+        "titleEn": "Maqam Rast",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/NgJg48vwqVI"
+      },
+      {
+        "type": "normal",
+        "titleEn": "Maqam Nahawand",
+        "titleAr": "مقام النهاوند",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/qniPK0zhLBo"
+      },
+      {
+        "type": "normal",
+        "titleEn": "Maqam Bayati",
+        "titleAr": "مقام البياتي",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/5oIMGPkLYQw"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الحجاز",
+        "titleEn": "Maqam Hijaz",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/7M-VpeQztpQ"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الكرد",
+        "titleEn": "Maqam Kurd",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/yarR6DdYYhQ"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام الصبا",
+        "titleEn": "Maqam Saba",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/4voVGSa6qDo"
+      },
+      {
+        "type": "normal",
+        "titleAr": "مقام العجم",
+        "titleEn": "Maqam Ajam",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/3bULpi7Zbsw"
+      },
+      {
+        "type": "normal",
+        "titleEn": "Maqam Sika",
+        "titleAr": "مقام السيكا",
+        "icon": null,
+        "audio": [],
+        "video": "https://www.youtube.com/embed/KiVLJnzFGoY"
+      }
+    ]
+  }
+]
