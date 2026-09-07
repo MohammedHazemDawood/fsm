@@ -1,0 +1,34 @@
+content:
+  - name: app_data
+    label: App Data
+    type: file
+    path: data.json
+    format: json
+    list: true
+    fields:
+      - name: type
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - name: book
+            fields:
+              - name: titleAr
+                type: string
+              - name: titleEn
+                type: string
+              - name: icon
+                type: string
+              - name: chapters
+                type: object
+                list: true
+                fields:
+                  # ...
+
+          - name: normal
+            fields:
+              # ...
+
+          - name: nested
+            fields:
+              # ...
